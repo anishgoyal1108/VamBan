@@ -19,7 +19,7 @@ https://youtu.be/dgANfv_Ut4k
 
 ## Usage
 
-```
+
 kabmat 2.7.1
 TUI program for managing kanban boards with vim-like keybindings
 
