@@ -1,6 +1,6 @@
 # VamBan
 
-Manage kanban boards from a vim terminal
+A vim kanban board editor
 
 ## Preview
 https://youtu.be/dgANfv_Ut4k
