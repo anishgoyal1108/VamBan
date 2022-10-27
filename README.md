@@ -1,4 +1,4 @@
-# kabmat
+# VamBan
 
 Manage kanban boards from a vim terminal
 
